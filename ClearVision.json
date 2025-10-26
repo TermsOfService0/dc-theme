@@ -1,17 +1,17 @@
 {
-    "name": "ClearVision v1.2.6",
-    "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
+    "name": "Custom_outlast",
+    "description": "My edit of clearvision",
 	"authors": [
       {
-         "name": "Taki_Shiwa, edited by Sunny",
+         "name": "Taki_Shiwa, edited by me",
          "id": "466968658997149706"
       }
     ],
     "semanticColors": {
 	"ANDROID_RIPPLE": [
-	    "#07448a",
-	    "#07448a",
-	    "#07448a"
+	    "#000",
+	    "#000",
+	    "#000"
 	],
         "ACTIVITY_CARD_BACKGROUND": [
             "#fb4934",
