@@ -38,20 +38,38 @@
         "TEXT_DANGER": ["#8b3a2c", "#8b3a2c", "#8b3a2c"]
     },
     "rawColors": {
-        "PRIMARY_100": "#6baa3b",
-        "PRIMARY_200": "#5c8e31",
-        "PRIMARY_300": "#6baa3b",
-        "PRIMARY_400": "#5c8e31",
-        "PRIMARY_500": "#6baa3b",
-        "PRIMARY_600": "#0a0a0a",
-        "PRIMARY_700": "#0d0d0d",
-        "PRIMARY_800": "#111111",
-        "PRIMARY_900": "#151515",
-        "BLACK_500": "#0a0a0a",
-        "WHITE_500": "#e6e6e6",
-        "GREEN_360": "#6baa3b",
-        "YELLOW_300": "#c07a38",
-        "RED_400": "#8b3a2c"
+    "PRIMARY_100": "#6baa3b",
+    "PRIMARY_200": "#5c8e31",
+    "PRIMARY_300": "#6baa3b",
+    "PRIMARY_400": "#5c8e31",
+    "PRIMARY_500": "#6baa3b",
+    "PRIMARY_600": "#0a0a0a",
+    "PRIMARY_700": "#0d0d0d",
+    "PRIMARY_800": "#111111",
+    "PRIMARY_900": "#151515",
+    "BLACK_500": "#0a0a0a",
+    "WHITE_500": "#e6e6e6",
+    "GREEN_360": "#6baa3b",
+    "YELLOW_300": "#c07a38",
+    "RED_400": "#8b3a2c",
+
+    
+    "BRAND_100": "#5c8e31",
+    "BRAND_200": "#6baa3b",
+    "BRAND_300": "#6baa3b",
+    "BRAND_400": "#5c8e31",
+    "BRAND_500": "#6baa3b",
+    "BRAND_560": "#6baa3b",
+    "BRAND_600": "#5c8e31",
+    "BRAND_700": "#6baa3b",
+    "BRAND_800": "#6baa3b",
+    "BRAND_900": "#6baa3b",
+
+    
+    "REPLY_BACKGROUND": "#0a0a0a",
+    "REPLY_BORDER": "#6baa3b",
+    "MENTION_BACKGROUND": "#6baa3b22",
+    "MENTION_FOREGROUND": "#6baa3b"
     },
     "background": {
         "url": "https://raw.githubusercontent.com/TermsOfService0/dc-theme/refs/heads/main/outlast1.png",
